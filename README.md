@@ -1,0 +1,2 @@
+# CMake
+Hello world template.
